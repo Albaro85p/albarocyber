@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Albaro — Analista de Ciberseguridad especializado en Blue Team
+# Soy Albaro — Analista de Ciberseguridad especializado en Blue Team
 
 🎯 Me especializo en:
 - Detección y respuesta ante amenazas
