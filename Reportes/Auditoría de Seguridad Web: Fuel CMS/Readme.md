@@ -3,7 +3,7 @@
 Este repositorio contiene el reporte ejecutivo y técnico de la auditoría realizada sobre...
 
 ##  Descarga del Informe Completo
- [**Descargar el Reporte Ejecutivo y Técnico en PDF](./Informe_Pentest_v1.pdf)**
+ https://github.com/Albaro85p/Cybermartech/blob/main/Reportes/Auditor%C3%ADa%20de%20Seguridad%20Web%3A%20Fuel%20CMS/Informe%20de%20auditoria%20FUEL%20CMS.pdf
 
 ---
 
