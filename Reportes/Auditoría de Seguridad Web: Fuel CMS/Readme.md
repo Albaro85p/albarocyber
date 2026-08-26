@@ -11,7 +11,7 @@ Esta auditoría evalúa el estado de seguridad y la postura de riesgo de la apli
 ### Key Highlights / Hallazgos Clave
 * **Objetivo:** Identificar vulnerabilidades que puedan comprometer la disponibilidad o confidencialidad de la plataforma.
 * **Resultado Global:** Se detectaron vectores de riesgo remediables. Ningún dato sensible fue expuesto de forma permanente.
-* **Retorno de Inversión (ROI) en Seguridad:** La corrección anticipada de estos hallazgos evita posibles caídas de servicio, **Multas por incumplimiento y costos de recuperación ante incidentes.**
+* **Retorno de Inversión (ROI) en Seguridad:** La corrección anticipada de estos hallazgos evita posibles caídas de servicio, **multas por incumplimiento y costos de recuperación ante incidentes.**
 
 ---
 
