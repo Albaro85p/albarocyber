@@ -3,7 +3,7 @@
 Este repositorio contiene el reporte ejecutivo y técnico de la auditoría realizada sobre...
 
 ##  Descarga del Informe Completo
- https://github.com/Albaro85p/Cybermartech/blob/main/Reportes/Auditor%C3%ADa%20de%20Seguridad%20Web%3A%20Fuel%20CMS/Informe%20de%20auditoria%20FUEL%20CMS.pdf
+ https://github.com/Albaro85p/Cybermartech/blob/main/Reportes/Auditor%C3%ADa%20de%20Seguridad%20Web%3A%20Fuel%20CMS/Informe%20de%20auditoria%20FUEL%20CMS.pdf Te lleva directo a la seccion Reportes/Informe de auditoria.pdf
 
 ---
 
