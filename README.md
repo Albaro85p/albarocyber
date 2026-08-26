@@ -1,6 +1,6 @@
 #Ethical Hacker & Cybersecurity Analyst#
 
-Enfocandome en el análisis de vulnerabilidades, pentesting web y evaluación de infraestructura. Mi enfoque se centra en la replicación de escenarios de ataque reales y en la redacción de documentación técnica y ejecutiva de alto valor. De este modo, ayudo a empresas a mantener la confidencialidad, disponibilidad e integridad de su informacion. 
+Enfocandome en el análisis de vulnerabilidades, pentesting web y evaluación de infraestructura. Me centro en la replicación de escenarios de ataque reales y en la redacción de documentación técnica y ejecutiva de alto valor. De este modo, ayudo a empresas a mantener la confidencialidad, disponibilidad e integridad de su informacion. 
 
 Areas donde me especilizo: OWASP Top 10, seguridad en redes, pruebas de concepto (PoC) y remediación de riesgos.
 
