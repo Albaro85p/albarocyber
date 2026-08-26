@@ -26,4 +26,4 @@ Este repositorio contiene el reporte ejecutivo y técnico de la auditoría reali
 - **Vulnerabilidad 1:** SQL Injection en el módulo de login (CVSS 9.8)
 - **Vulnerabilidad 2:** Insecure Direct Object References (IDOR) en la descarga de contratos (CVSS 7.5)
 
-*(Consulte la sección 4 del PDF para ver los Proof of Concept y código de remediación).*
+*(Consulte la sección "Informe de auditoria detallado" del PDF para ver los Proof of Concept y código de remediación).*
