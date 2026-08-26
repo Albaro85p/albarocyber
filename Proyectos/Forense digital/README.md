@@ -1,6 +1,6 @@
-# 💾 Técnico en Recuperación de Datos y Análisis Forense Digital
+#  Técnico en Recuperación de Datos y Análisis Forense Digital
 
-## 📄 Descripción del Proyecto
+##  Descripción del Proyecto
 Este repositorio contiene la documentación técnica y el procedimiento operativo aplicado durante el caso práctico de **recuperación de datos y análisis forense** sobre una unidad de almacenamiento dañada. 
 
 El objetivo principal de la intervención fue diagnosticar, preservar la evidencia original y extraer la información crítica solicitada por el cliente, aplicando buenas prácticas del estándar forense para asegurar la integridad de los datos rescatados.
