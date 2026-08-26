@@ -1,4 +1,4 @@
-#Ethical Hacker & Cybersecurity Analyst#
+#Cybersecurity Analyst#
 
 Enfocandome en el análisis de vulnerabilidades, pentesting web y evaluación de infraestructura. Me centro en la replicación de escenarios de ataque reales y en la redacción de documentación técnica y ejecutiva de alto valor. De este modo, ayudo a empresas a mantener la confidencialidad, disponibilidad e integridad de su informacion. Tambien doy apoyo y presto como servicio mis conocimientos analizando malware. 
 
