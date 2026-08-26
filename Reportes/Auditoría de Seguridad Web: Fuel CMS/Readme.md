@@ -9,7 +9,7 @@ Este repositorio contiene el reporte ejecutivo y técnico de la auditoría reali
 
 ##  Resumen Ejecutivo (Informe sin tecnicismo)
 * **Alcance:** Aplicación Web de Gestión Documental.
-* **Nivel de Riesgo Global:** 🔴 ALTO
+* **Nivel de Riesgo Global:** ALTO
 * **Hallazgos Principales:** Se identificaron vulnerabilidades que comprometen la confidencialidad de los datos personales (cumplimiento GDPR/LOPD).
 
 ### Matriz de Riesgos
